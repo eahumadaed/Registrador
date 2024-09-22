@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meter Record</string>
+    <string name="agregar_nueva_medicion">Add new reading</string>
+    <string name="agua">Water</string>
+    <string name="gas">Gas</string>
+    <string name="luz">Light</string>
+    <string name="fecha">Date</string>
+    <string name="valor_medidor">Meter value</string>
+    <string name="campo_obligatorio">Please fill out all fields before submitting the reading.</string>
+    <string name="registro_medidor">REGISTER READING</string>
+    <string name="registrar_medicion">REGISTER READING</string>
+    <string name="registro_de_medidores">Meter Record</string>
+    <string name="tipo_gasto">Type of expense</string>
+    <string name="campo_obligatorio_titulo">Required Fields</string>
+    <string name="campo_obligatorio_mensaje">Please fill out all fields before submitting the reading.</string>
+    <string name="ok">OK</string>
+</resources>

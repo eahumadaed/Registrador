@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Registro de medidores</string>
+    <string name="agregar_nueva_medicion">Agregar nueva medición</string>
+    <string name="agua">Agua</string>
+    <string name="gas">Gas</string>
+    <string name="luz">Luz</string>
+    <string name="fecha">Fecha</string>
+    <string name="valor_medidor">Valor del medidor</string>
+    <string name="campo_obligatorio">Por favor, complete todos los campos antes de registrar la medición.</string>
+    <string name="registro_medidor">REGISTRAR MEDICIÓN</string>
+    <string name="registrar_medicion">REGISTRAR MEDICIÓN</string>
+    <string name="registro_de_medidores">Registro de medidores</string>
+    <string name="tipo_gasto">Tipo de gasto</string>
+    <string name="campo_obligatorio_titulo">Campos obligatorios</string>
+    <string name="campo_obligatorio_mensaje">Por favor, complete todos los campos antes de registrar la medición.</string>
+    <string name="ok">OK</string>
+</resources>
